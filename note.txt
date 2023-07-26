@@ -1,0 +1,2 @@
+This work was completed in my CS330 class, and I contributed about ~25% of the functionality, alongside reading and understanding the files that were given.
+Testing was completed on my own, and most .c files were completed by me. Note that there were .o files included, but could not be listed here.
